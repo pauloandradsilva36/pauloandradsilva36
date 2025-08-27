@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Paulo de Andrade 👋
 
-<!--
-**pauloandradsilva36/pauloandradsilva36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🌍 Moro em Portugal  
+- 👨‍💻 Sou programador em desenvolvimento, aprendendo e criando projetos com **HTML** e **CSS**  
+- 💡 Apaixonado por tecnologia e sempre em busca de evoluir minhas habilidades  
+- ✨ Buscando compartilhar conhecimento e colaborar em projetos interessantes  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- HTML5  
+- CSS3  
+- Git & GitHub  
+- Visual Studio Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)  
+
+## 📫 Como me encontrar
+- 💼 LinkedIn: [Paulo de Andrade](https://www.linkedin.com/in/paulo-de-andrade-bb2318337/)  
+
+---
+✨ Obrigado por visitar meu perfil!
