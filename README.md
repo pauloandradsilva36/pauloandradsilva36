@@ -13,9 +13,9 @@
 - Visual Studio Code  
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pauloandradsilva36&show_icons=true&theme=dracula)  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloandradsilva36&layout=compact&theme=dracula)  
 
 ## 📫 Como me encontrar
 - 💼 LinkedIn: [Paulo de Andrade](https://www.linkedin.com/in/paulo-de-andrade-bb2318337/)  
